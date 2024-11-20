@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "huDtJij8AqoIBK7B+LLSOkuupdVHBORglJnTKJ0xCdI=",
+  "Source": "WeatherApiWithFeatureFlags",
+  "BasePath": "_content/WeatherApiWithFeatureFlags",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

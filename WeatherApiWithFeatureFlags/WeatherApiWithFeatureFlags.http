@@ -1,0 +1,6 @@
+@WeatherApiWithFeatureFlags_HostAddress = http://localhost:5131
+
+GET {{WeatherApiWithFeatureFlags_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
