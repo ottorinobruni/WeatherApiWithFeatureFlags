@@ -33,3 +33,14 @@
 /Users/ottorinobruni/Documents/Work/DotNet/WeatherApiWithFeatureFlags/WeatherApiWithFeatureFlags/obj/Debug/net8.0/ref/WeatherApiWithFeatureFlags.dll
 /Users/ottorinobruni/Documents/Work/DotNet/WeatherApiWithFeatureFlags/WeatherApiWithFeatureFlags/bin/Debug/net8.0/Microsoft.Bcl.TimeProvider.dll
 /Users/ottorinobruni/Documents/Work/DotNet/WeatherApiWithFeatureFlags/WeatherApiWithFeatureFlags/bin/Debug/net8.0/Microsoft.FeatureManagement.dll
+/Users/ottorinobruni/Documents/Work/DotNet/WeatherApiWithFeatureFlags/WeatherApiWithFeatureFlags/obj/Debug/net8.0/WeatherApiWithFeatureFlags.sourcelink.json
+/Users/ottorinobruni/Documents/Work/DotNet/WeatherApiWithFeatureFlags/WeatherApiWithFeatureFlags/bin/Debug/net8.0/Azure.Core.dll
+/Users/ottorinobruni/Documents/Work/DotNet/WeatherApiWithFeatureFlags/WeatherApiWithFeatureFlags/bin/Debug/net8.0/Azure.Data.AppConfiguration.dll
+/Users/ottorinobruni/Documents/Work/DotNet/WeatherApiWithFeatureFlags/WeatherApiWithFeatureFlags/bin/Debug/net8.0/Azure.Messaging.EventGrid.dll
+/Users/ottorinobruni/Documents/Work/DotNet/WeatherApiWithFeatureFlags/WeatherApiWithFeatureFlags/bin/Debug/net8.0/Azure.Security.KeyVault.Secrets.dll
+/Users/ottorinobruni/Documents/Work/DotNet/WeatherApiWithFeatureFlags/WeatherApiWithFeatureFlags/bin/Debug/net8.0/DnsClient.dll
+/Users/ottorinobruni/Documents/Work/DotNet/WeatherApiWithFeatureFlags/WeatherApiWithFeatureFlags/bin/Debug/net8.0/Microsoft.Azure.AppConfiguration.AspNetCore.dll
+/Users/ottorinobruni/Documents/Work/DotNet/WeatherApiWithFeatureFlags/WeatherApiWithFeatureFlags/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ottorinobruni/Documents/Work/DotNet/WeatherApiWithFeatureFlags/WeatherApiWithFeatureFlags/bin/Debug/net8.0/Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
+/Users/ottorinobruni/Documents/Work/DotNet/WeatherApiWithFeatureFlags/WeatherApiWithFeatureFlags/bin/Debug/net8.0/System.ClientModel.dll
+/Users/ottorinobruni/Documents/Work/DotNet/WeatherApiWithFeatureFlags/WeatherApiWithFeatureFlags/bin/Debug/net8.0/System.Memory.Data.dll
